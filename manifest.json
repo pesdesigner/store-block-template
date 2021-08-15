@@ -11,6 +11,8 @@
     "react": "3.x"
   },
   "dependencies": {
+    "vtex.search-graphql": "0.x",
+    "vtex.product-context": "0.x",
     "vtex.styleguide": "9.x",
     "vtex.css-handles": "0.x"
   },
